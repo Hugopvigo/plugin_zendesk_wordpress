@@ -151,11 +151,12 @@ plugin_zendesk_wordpress/
 
 ## Licencia
 
-El repositorio está bajo **CC BY-NC-SA 4.0**: se puede compartir y adaptar con
-fines no comerciales, citando al autor y manteniendo la misma licencia. Texto
+El repositorio está bajo **CC BY-NC-SA 4.0** (Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International): se puede compartir y adaptar, con
+atribución, **sin uso comercial** y manteniendo la misma licencia en las obras derivadas. Texto
 completo en [`LICENSE`](LICENSE).
 
-Ojo: el `composer.json` del plugin declara la licencia `proprietary` y firma
-© SUOP Mobile SL — Hugo Pérez-Vigo. Son dos declaraciones que no coinciden;
-manda el fichero `LICENSE` del repositorio, pero si el plugin se va a
-distribuir en serio conviene alinearlas.
+Todo está alineado con ese fichero: el `composer.json` declara la licencia `CC-BY-NC-SA-4.0` y la
+cabecera del plugin (`zendesk-woocommerce-integration.php`) indica `License: CC BY-NC-SA 4.0`.
+
+© 2026 SUOP Mobile SL — Hugo Pérez-Vigo.

@@ -2,7 +2,7 @@
     "name": "hugo/zendesk-woocommerce-integration",
     "description": "Plugin creacion de usuarios en Zendesk",
     "type": "wordpress-plugin",
-    "license": "proprietary",
+    "license": "CC-BY-NC-SA-4.0",
     "authors": [
         {
             "name": "Hugo"

@@ -4,6 +4,7 @@ Plugin Name: Zendesk WooCommerce Integracion con Suop
 Description: Plugin para crear los usuarios de WordPress y WooCommerce en Zendesk
 Version: 1.2
 Author: <a href="https://www.suop.es/" target="_blank">SUOP</a> - Hugo Perez-Vigo
+License: CC BY-NC-SA 4.0
 */
 
 // Evita el acceso directo al archivo
