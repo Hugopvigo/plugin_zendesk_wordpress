@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="licencia" src="https://img.shields.io/badge/licencia-proprietaria-8E8E93?style=flat-square&labelColor=1a1a1e">
+  <img alt="licencia" src="https://img.shields.io/badge/licencia-CC%20BY--NC--SA%204.0-8E8E93?style=flat-square&labelColor=1a1a1e">
   <img alt="php" src="https://img.shields.io/badge/PHP-8E8E93?style=flat-square&labelColor=1a1a1e">
   <img alt="wordpress" src="https://img.shields.io/badge/WordPress-8E8E93?style=flat-square&labelColor=1a1a1e">
   <img alt="woocommerce" src="https://img.shields.io/badge/WooCommerce-8E8E93?style=flat-square&labelColor=1a1a1e">
@@ -151,5 +151,11 @@ plugin_zendesk_wordpress/
 
 ## Licencia
 
-No hay fichero `LICENSE` en el repositorio. `composer.json` declara la licencia como
-**`proprietary`**: © SUOP Mobile SL — Hugo Pérez-Vigo.
+El repositorio está bajo **CC BY-NC-SA 4.0**: se puede compartir y adaptar con
+fines no comerciales, citando al autor y manteniendo la misma licencia. Texto
+completo en [`LICENSE`](LICENSE).
+
+Ojo: el `composer.json` del plugin declara la licencia `proprietary` y firma
+© SUOP Mobile SL — Hugo Pérez-Vigo. Son dos declaraciones que no coinciden;
+manda el fichero `LICENSE` del repositorio, pero si el plugin se va a
+distribuir en serio conviene alinearlas.
