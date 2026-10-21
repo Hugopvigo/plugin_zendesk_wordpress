@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/capturas/00-cabecera.png" alt="Zendesk WooCommerce — crea el usuario de Zendesk al registrarse en WordPress" width="100%">
+  <img src="docs/capturas/00-cabecera.png" alt="Zendesk para WooCommerce — crea el usuario de Zendesk al registrarse en la tienda" width="100%">
 </p>
 
 <p align="center">
