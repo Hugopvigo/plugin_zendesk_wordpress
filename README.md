@@ -1,3 +1,7 @@
+<meta property="og:title" content="PLUGIN ZENDESK WORDPRESS">
+<meta property="og:description" content="Cada alta en WordPress se refleja en Zendesk como usuario de soporte.">
+<meta property="og:image" content="https://raw.githubusercontent.com/Hugopvigo/plugin_zendesk_wordpress/main/docs/capturas/og.png">
+
 <p align="center">
   <img src="docs/capturas/00-cabecera.png" alt="Zendesk para WooCommerce — crea el usuario de Zendesk al registrarse en la tienda" width="100%">
 </p>
